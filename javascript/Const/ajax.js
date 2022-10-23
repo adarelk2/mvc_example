@@ -1,0 +1,5 @@
+export const StatusAPI = {
+STATUS_SUCCESS : 200,
+STATUS_CREATED : 201,
+STATUS_DELETED : 204
+}
